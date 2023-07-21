@@ -1,4 +1,4 @@
 # Terminal Effects
 
 * Hackertyper
-* Sneakers
+* Sneakers (Inspired by the [no-more-secrets](https://github.com/bartobri/no-more-secrets))
